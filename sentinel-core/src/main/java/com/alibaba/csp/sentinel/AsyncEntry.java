@@ -22,7 +22,7 @@ import com.alibaba.csp.sentinel.slotchain.ProcessorSlot;
 import com.alibaba.csp.sentinel.slotchain.ResourceWrapper;
 
 /**
- * The entry for asynchronous resources.
+ * The entry for asynchronous resources
  *
  * @author Eric Zhao
  * @since 0.2.0
